@@ -1,0 +1,6 @@
+{
+  "name": "Madrasa Arabia Madina Tul Uloom - Management System",
+  "description": "مکمل اور پیشہ ورانہ مدرسہ مینجمنٹ سافٹ ویئر برائے مدرسہ عربیہ مدینۃ العلوم - طلبہ، اساتذہ، امتحانات، فیس، حاضری، تنخواہ اور مالیات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
